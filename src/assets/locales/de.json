@@ -1,0 +1,24 @@
+{
+    "header": {
+      "welcome": "welcome"  
+    },
+
+    "body": {
+        "login":{
+      "login": "Login",
+      "signup": "Sign Up",
+      "forgotPswd":"Passwort vergessen ?",
+      "password":"Passwort",
+      "email":"Email Id",
+      "notRegst":"noch nicht registriert ?"
+     
+    },
+    "register":{
+      "register":"Registrieren",
+      "fullName":"Vollständiger Name",
+      "emailAdd":"E-Mail Adresse",
+      "alrdy":"Bereits registriert ?"
+
+    }
+    }
+  }
